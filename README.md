@@ -1,0 +1,2 @@
+# imageForPython
+本python源码是本人研究算法中部分可公开的算法python仿真。
